@@ -1,0 +1,209 @@
+
+ @media screen and (max-width: 739px) {
+    .img{
+    padding-left: 100px;
+    }
+    .img2{
+        height:290px ;
+        width: 540px;
+    }
+    .toptop{
+        position: fixed;
+        right: 3px;
+        bottom: 5px;
+        border:1px solid #d6d6d6;
+        color: #fcfdfe;
+        padding: 10px;
+        background: #333;
+        right: 120px;
+    }
+    
+ }
+header{
+    background-image:url(../img/slider4.jpg) ;
+    background-attachment: fixed;
+    background-size: cover;
+}
+header .header-logo{
+    background:  white;
+    padding: 20px;
+  /* position: sticky; */
+    top: 0;
+}
+ header .header-content{
+    margin: 200px;
+}
+.logo a{
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+}
+.logo samp{
+    color: blue;
+    font-size: 30px;
+    padding-left: 10px;
+}
+.menu a{
+    color: black;
+    font-size: 40px;
+}
+.khung{
+    border: 10px double white;
+}
+.Duongthang{
+    color: #dce2e2;
+    border-bottom: 4px solid #c9cdcc ;
+}
+.background{
+    background-color: #dce2e2;
+    padding: 20px;
+    opacity: 0.8;
+}
+.FRELANCE{
+    border-right:3px solid #93cfca;
+    color:#93cfca;
+    font-family: oswald;
+    font-size: 35px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+h1{
+    color: #464646;
+    font-family: oswald;
+    font-size: 35px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+.silogan h3{
+   font-size: 17px;
+   color: #747573;
+}
+.header-menu{
+    padding:15px ;
+}
+.content{
+    background: white;
+}
+.nav-item{
+    padding: 10px;
+}
+.nav-links{
+   text-decoration: none;
+    padding: 10px;
+    color:#747573 ;
+}
+.nav-link{
+    color:white;
+    border:1px solid white;
+    background: black;
+    padding: 10px;
+}
+.card-body a{
+    text-decoration: none;
+    color:#747573 ;
+}
+.content-menu{
+    padding-top: 100px;
+    padding-bottom: 25px;
+}
+.lodemore{
+    border: 1px solid #eeeeee;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+}
+.content-lodemore{
+    padding: 50px 0px 100px;;
+}
+.ourblor{
+    padding: 35px;
+}
+.our{
+    font-size: 30px;
+    color: #474141;
+}
+.gach{
+    color: white;
+    border-top:2px solid #141313;
+}
+.ourblor h2{
+    border-bottom: 1px solid black;
+}
+.table{
+    border-top: 1px solid rgb(244, 236, 236) ;
+    border-bottom: 1px solid rgb(244, 236, 236) ;
+}
+.content-card{
+border: 1px solid #e2e2e2;
+padding-bottom:50px ;
+padding-top: 20px;
+}
+.readmore{
+    border: 1px solid rgb(244, 236, 236);
+    padding: 10px;
+}
+.comments{
+    border: 1px solid rgb(244, 236, 236);
+    padding: 10px;
+    border-bottom: 5px solid #f3f3f3;
+    border-top:none;
+}
+.call{
+    padding-top: 200px;
+    padding-bottom: 100px;
+    color: #463f3f;
+}
+footer{
+    background: white;
+    align-items: center;
+}
+.footer-2022{
+    padding-top: 25px;
+}
+footer p{
+    color: #747573;
+    padding-bottom: 10px;
+}
+footer a{
+    text-decoration: none;
+    color: #747573;
+}
+.anh1{
+    padding-right:0px;
+}
+.anh2{ 
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-top: 0px; 
+}
+.anh3{
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.anh4{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.anh{
+    padding: 0px;
+}
+.anh5{
+    padding-left:0px;
+}
+.anh6{
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-top: 0px; 
+}
+
+
+.toptop{
+    position: fixed;
+    right: 3px;
+    bottom: 5px;
+    border:1px solid #d6d6d6;
+    color: #fcfdfe;
+    padding: 10px;
+    background: #333;
+}
